@@ -6,6 +6,7 @@ namespace musicalbox
 
 public class MusicalBox
 {
+    public Action<string, string> MessageHandler;
 
     private List<string> words = null;
 
@@ -33,6 +34,11 @@ public class MusicalBox
       if (IsMusicalWord(word))
       {
         words.Add(word);
+        MessageHandler?.Invoke(word, "entro en la cajita musical");
+      }
+      else
+      {
+        MessageHandler?.Invoke(word, "no entro en la cajita musical");
       }
     }
 
