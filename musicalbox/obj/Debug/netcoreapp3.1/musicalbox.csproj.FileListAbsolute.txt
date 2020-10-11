@@ -1,0 +1,13 @@
+/home/danielbarrios76/Projects/musicalbox/musicalbox/bin/Debug/netcoreapp3.1/musicalbox
+/home/danielbarrios76/Projects/musicalbox/musicalbox/bin/Debug/netcoreapp3.1/musicalbox.deps.json
+/home/danielbarrios76/Projects/musicalbox/musicalbox/bin/Debug/netcoreapp3.1/musicalbox.runtimeconfig.json
+/home/danielbarrios76/Projects/musicalbox/musicalbox/bin/Debug/netcoreapp3.1/musicalbox.runtimeconfig.dev.json
+/home/danielbarrios76/Projects/musicalbox/musicalbox/bin/Debug/netcoreapp3.1/musicalbox.dll
+/home/danielbarrios76/Projects/musicalbox/musicalbox/bin/Debug/netcoreapp3.1/musicalbox.pdb
+/home/danielbarrios76/Projects/musicalbox/musicalbox/obj/Debug/netcoreapp3.1/musicalbox.csprojAssemblyReference.cache
+/home/danielbarrios76/Projects/musicalbox/musicalbox/obj/Debug/netcoreapp3.1/musicalbox.AssemblyInfoInputs.cache
+/home/danielbarrios76/Projects/musicalbox/musicalbox/obj/Debug/netcoreapp3.1/musicalbox.AssemblyInfo.cs
+/home/danielbarrios76/Projects/musicalbox/musicalbox/obj/Debug/netcoreapp3.1/musicalbox.csproj.CoreCompileInputs.cache
+/home/danielbarrios76/Projects/musicalbox/musicalbox/obj/Debug/netcoreapp3.1/musicalbox.dll
+/home/danielbarrios76/Projects/musicalbox/musicalbox/obj/Debug/netcoreapp3.1/musicalbox.pdb
+/home/danielbarrios76/Projects/musicalbox/musicalbox/obj/Debug/netcoreapp3.1/musicalbox.genruntimeconfig.cache
