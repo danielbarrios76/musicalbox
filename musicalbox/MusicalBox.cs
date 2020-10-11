@@ -17,9 +17,9 @@ public class MusicalBox
     {
       bool val = false;
 
-      foreach(string nota in notas)
+      foreach(var nota in notas)
       {
-        if (word.IndexOf(nota) != -1)
+        if (word.ToLower().IndexOf(nota) != -1)
         {
           val = true;
         }

@@ -19,6 +19,7 @@ namespace musicalbox
         musicalBox.AddMusicalWord("lado");
         musicalBox.AddMusicalWord("casa");
         musicalBox.AddMusicalWord("piano");
+        musicalBox.AddMusicalWord("MUSICA");
         
 
         ShowMessage("Palabras en la cajita musica: ", musicalBox.GetWords());
